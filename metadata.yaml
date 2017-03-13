@@ -1,5 +1,8 @@
 _repo: Saint-s-Progress_2683
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -13,6 +16,8 @@ description: 'In the novel Saint''s Progress , published in 1919, Galsworthy wre
   with issues of the Great War. What was really being fought for: love as the guiding
   principle of life, a balance between Might is Right and Right is Might or a basic
   belief in God?'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2683#Saint-s-Progress
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
